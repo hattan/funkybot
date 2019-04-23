@@ -1,0 +1,24 @@
+{
+    "name": "funkybot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "1"
+        },
+        {
+            "type": "endpoint",
+            "appId": "6036a162-640b-40a5-85e6-ca1052970aa3",
+            "appPassword": "MfpCylLWFfpLn2NUVmrcug==!wuUlaLDyKXZlSs2t6dK5w0ILAY7Vv1YLi2PLMsb4mHc=",
+            "endpoint": "https://hattan-test-bot.azurewebsites.net/api/messages",
+            "name": "production",
+            "id": "2"
+        }
+    ],
+    "padlock": "ziq6emVRXoIvoNX/AxpOeA==!TvSiCqXhdvDWcErm6yNXIe9OCaNEhkEbassDVLoK8eOGUaKI8arW4xFesamaOrGK",
+    "version": "2.0"
+}
